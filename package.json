@@ -1,0 +1,23 @@
+{
+  "name": "front-end-security-handson",
+  "version": "1.0.0",
+  "description": "書籍「フロントエンド開発のためのセキュリティ入門」のハンズオン用のリポジトリ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gon0821/front-end-security-handson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gon0821/front-end-security-handson/issues"
+  },
+  "homepage": "https://github.com/gon0821/front-end-security-handson#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
